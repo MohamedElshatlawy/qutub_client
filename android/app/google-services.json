@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "211939810221",
+    "firebase_url": "https://qutub-tech.firebaseio.com",
+    "project_id": "qutub-tech",
+    "storage_bucket": "qutub-tech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211939810221:android:efe019b22c131d35bc5f24",
+        "android_client_info": {
+          "package_name": "com.example.qutub_clinet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211939810221-r4hug19iihqroldj2efpam6ji8cg9eth.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qutub_clinet",
+            "certificate_hash": "d87420cd1c7684ae32ccda7618ee3c8679c43afa"
+          }
+        },
+        {
+          "client_id": "211939810221-t93q3tumgj3cgd3du3f2oqe18focrbsd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qutub_clinet",
+            "certificate_hash": "8c7a178c425b80f28aef1e9d5dd3c121b43f9041"
+          }
+        },
+        {
+          "client_id": "211939810221-97eojt681106hca8h4ilmbfv40g1mp6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAtjh-0YhTPflKq82kEPfpbsJv5hPA9qY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211939810221-97eojt681106hca8h4ilmbfv40g1mp6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211939810221:android:6757c9b67d1c33bfbc5f24",
+        "android_client_info": {
+          "package_name": "com.example.qutub_dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211939810221-97eojt681106hca8h4ilmbfv40g1mp6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAtjh-0YhTPflKq82kEPfpbsJv5hPA9qY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211939810221-97eojt681106hca8h4ilmbfv40g1mp6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211939810221:android:acbb028f35ecd64dbc5f24",
+        "android_client_info": {
+          "package_name": "com.qutub.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211939810221-oqhr19hi8i6uvbtb0g3vvvaso4dq5l9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qutub.client",
+            "certificate_hash": "d87420cd1c7684ae32ccda7618ee3c8679c43afa"
+          }
+        },
+        {
+          "client_id": "211939810221-aqvogtj7pcn2v986e0h290h35qiv29ol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qutub.client",
+            "certificate_hash": "8c7a178c425b80f28aef1e9d5dd3c121b43f9041"
+          }
+        },
+        {
+          "client_id": "211939810221-97eojt681106hca8h4ilmbfv40g1mp6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAtjh-0YhTPflKq82kEPfpbsJv5hPA9qY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211939810221-97eojt681106hca8h4ilmbfv40g1mp6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
